@@ -1,11 +1,11 @@
 {
-  "name": "nuxt-blog",
+  "name": "EquaApps",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "set NODE_OPTIONS=–openssl-legacy-provider && nuxt",
-    "build": "set NODE_OPTIONS=–openssl-legacy-provider && uxt build",
-    "start": "nset NODE_OPTIONS=–openssl-legacy-provider && uxt start",
+    "build": "set NODE_OPTIONS=–openssl-legacy-provider && nuxt build",
+    "start": "nset NODE_OPTIONS=–openssl-legacy-provider && nuxt start",
     "generate": "set NODE_OPTIONS=–openssl-legacy-provider && nuxt generate"
   },
   "dependencies": {
