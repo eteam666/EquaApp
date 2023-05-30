@@ -25,10 +25,10 @@ export default {
     return {
       people: [
         {
-          name: '方程式',
+          name: 'windy Pixel TSX',
           role: '队长',
           imageUrl:
-            'https://img.equaapps.net/fcs1024.jpg',
+            'https://img.equaapps.net/wpt2199.jpg',
         },
         {
           name: 'Easysys',
@@ -37,10 +37,10 @@ export default {
             'https://img.equaapps.net/sys0706.jpg',
         },
         {
-          name: 'windy Pixel TSX',
+          name: '方程式',
           role: '程序开发者',
           imageUrl:
-            'https://img.equaapps.net/wpt2199.jpg',
+            'https://img.equaapps.net/fcs1024.jpg',
         },
         {
           name: 'XU',
