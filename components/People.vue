@@ -50,7 +50,7 @@ export default {
         },
         {
           name: 'ZYH',
-          role: '测试',
+          role: '程序开发者',
           imageUrl:
             'https://img.equaapps.net/zyh1127.jpg',
         },
