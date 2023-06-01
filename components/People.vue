@@ -26,7 +26,7 @@ export default {
       people: [
         {
           name: 'windy Pixel TSX',
-          role: '队长',
+          role: '组织者',
           imageUrl:
             'https://img.equaapps.net/wpt2199.jpg',
         },
