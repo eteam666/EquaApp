@@ -44,25 +44,25 @@ export default {
         },
         {
           name: 'XU',
-          role: '程序开发者',
+          role: '协作者',
           imageUrl:
             'https://img.equaapps.net/xur6688.jpg',
         },
         {
           name: 'ZYH',
-          role: '     ',
+          role: '协作者',
           imageUrl:
             'https://img.equaapps.net/zyh1127.jpg',
         },
         {
           name: 'Jacky_Liu',
-          role: '程序开发者',
+          role: '协作者',
           imageUrl:
             'https://img.equaapps.net/jkl1028.jpg',
         },
         {
           name: '虚拟稽',
-          role: '程序开发者',
+          role: '协作者',
           imageUrl:
             'https://img.equaapps.net/xnj0719.jpg',
         },
